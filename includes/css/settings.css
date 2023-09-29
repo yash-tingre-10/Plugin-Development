@@ -1,0 +1,12 @@
+.wrap h1{
+    font-size: 30px;
+    font-style: italic;
+}
+.leftcol{
+    width: 70%;
+    float: left;
+}
+.rightcol{
+    width: 25%;
+    float: right;
+}
